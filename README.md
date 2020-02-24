@@ -1,6 +1,6 @@
 # Hackintosh Dell E7440
 ```html
-Unmaintained, as I don't have this laptop anymore.
+⚠️ Unmaintained, as I don't have this laptop anymore.
 ```
 Hackintosh resources for Dell E7440
 
