@@ -16,7 +16,7 @@ This is my complete EFI folder to be used for Hackintosh on Notebook Dell E7440 
 --------------------------------------------------------------------------------------------
 
 ### Notebook Specs
-<img src="/img/x441uv-wx091d.png?raw=true" alt="Asus X441UV" align="right">
+<img src="/img/e7440.png?raw=true" alt="Dell E7440" align="right">
 
 - [x] <b>Model</b>: Asus X441UV-WX091D (X441U Board) 2018
 - [x] <b>CPU</b>: Intel Core i3-6006u (4) @ 2.00GHz (6th Gen)
